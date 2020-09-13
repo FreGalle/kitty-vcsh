@@ -2,5 +2,7 @@
 !/.config
 !/.config/kitty
 !/.config/kitty/**
+/.config/kitty/kitty-themes
+/.config/kitty/kitty-themes/**
 !/.gitignore.d
 !/.gitignore.d/kitty
